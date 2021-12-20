@@ -51,9 +51,9 @@
     {
       "name": "useradmin",
       "email": "useradmin@gmail.com",
-      "city": "Marikinas",
+      "city": "Marikina",
       "gender": "Male",
-      "username": "useradmins",
+      "username": "useradmin",
       "id": 7
     }
   ],
@@ -75,13 +75,8 @@
     },
     {
       "title": "Tweet a D",
-      "body": "Tweeeeeeeeeeeet",
-      "id": 4
-    },
-    {
-      "title": "Tuwi ta Duwi",
       "body": "tweet",
-      "id": 5
+      "id": 4
     },
     {
       "title": "tuwi",
@@ -92,6 +87,11 @@
       "title": "Dotapick",
       "body": "Sample Content here",
       "id": 7
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "id": 8
     }
   ]
 }

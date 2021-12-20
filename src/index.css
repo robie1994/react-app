@@ -118,7 +118,7 @@ table tr th {
   background: white;
   position: fixed;
   transform: translate(-50%, -50%);
-  bottom: 25%;
+  bottom: 10%;
   left: 50%;
   padding: 2rem;
   border-radius: 1rem;
