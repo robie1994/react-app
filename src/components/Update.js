@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Modal from 'react-modal'
 import $ from 'jquery';
 import { CloseButton } from 'react-bootstrap';
