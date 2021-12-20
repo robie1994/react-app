@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "name": "Robie Mond Mendiola",
+      "email": "robie@gmail.com.ph",
+      "city": "Taguig City",
+      "gender": "Male",
+      "username": "robie123mond",
+      "id": 1
+    },
+    {
+      "name": "Danna Joyce",
+      "email": "danna@gmail.com",
+      "city": "Taguig City",
+      "gender": "Female",
+      "username": "dannajoyce",
+      "id": 2
+    },
+    {
+      "name": "User3",
+      "email": "user3@gmail.com",
+      "city": "Pasig City",
+      "gender": "Female",
+      "username": "user3",
+      "id": 3
+    },
+    {
+      "name": "Admin",
+      "email": "admin@hotmail.com",
+      "city": "Miami",
+      "gender": "Female",
+      "username": "admin",
+      "id": 4
+    },
+    {
+      "name": "testuser28",
+      "email": "testuser28@foxmail.com",
+      "city": "Sta Rosa",
+      "gender": "Male",
+      "username": "testuser28",
+      "id": 5
+    },
+    {
+      "name": "test11",
+      "email": "test11@yahoo.com",
+      "city": "Golden City",
+      "gender": "Male",
+      "username": "text11user",
+      "id": 6
+    },
+    {
+      "name": "useradmin",
+      "email": "useradmin@gmail.com",
+      "city": "Marikinas",
+      "gender": "Male",
+      "username": "useradmins",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "title": "Lorem Ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 1
+    },
+    {
+      "title": "Dummy Post",
+      "body": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.",
+      "id": 2
+    },
+    {
+      "title": "Sample Dummy Text2",
+      "body": "2But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.",
+      "id": 3
+    },
+    {
+      "title": "Tweet a D",
+      "body": "Tweeeeeeeeeeeet",
+      "id": 4
+    },
+    {
+      "title": "Tuwi ta Duwi",
+      "body": "tweet",
+      "id": 5
+    },
+    {
+      "title": "tuwi",
+      "body": "tuwa duwi",
+      "id": 6
+    },
+    {
+      "title": "Dotapick",
+      "body": "Sample Content here",
+      "id": 7
+    }
+  ]
+}

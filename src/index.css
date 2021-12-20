@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+textarea {
+  height: 10em;
+  resize: none;
+}
+
+.container {
+  max-width: 70%;
+  height: 100%;
+  border: 1px solid steelblue;
+  padding: 1px 16px;
+  border-radius: 5px;
+  margin-left: 30%;
+  color: steelblue;
+}
+
+.side-drawer {
+  height: 100%;
+  width: 30%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  color: steelblue;
+  background-color:rgb(214, 211, 211);
+  overflow-x: hidden;
+  padding-top: 20px;
+  text-align: center;
+}
+.post{
+  text-align: center;
+  position: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: steelblue;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.btn-add {
+  top: 100%;
+  display: block;
+  width: 80%;
+  display: inline-block;
+  background: steelblue;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+  position: relative;
+  height: 20%;
+}
+
+.user {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+table tr th {
+  text-align: left;
+  background: gray;
+  color: white;
+}
+.modal-window {
+  width: 500px;
+  background: white;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  bottom: 25%;
+  left: 50%;
+  padding: 2rem;
+  border-radius: 1rem;
+  border: 1px solid;
+}
+a {
+  color: red;
+  bottom: 100%;
+  font-size: 15px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
+.toast{
+  width: 5000px;
+}
