@@ -15,26 +15,6 @@ function Update(props) {
   let [gender, setGender] = useState('')
   let [username, setUsername] = useState('')
 
-  const [users, setUsers] = useState([])
-  
-  useEffect(() => {
-    const getUsers = async () => {
-      const usersFromServer = await fetchUsers()
-      setUsers(usersFromServer)
-    }
-    getUsers()
-  }, [])
-
-  // Fetch Users
-  const fetchUsers = async () => {
-    const res = await fetch('http://localhost:5007/users')
-    const data = await res.json()
-
-    return data
-  }
-
-
-
   function updateUser() {
     name = !name ? $('#name').val() : name;
     email = !email ? $('#email').val() : email;
